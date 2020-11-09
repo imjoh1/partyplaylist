@@ -1,0 +1,96 @@
+{
+  "loopMediaList": true,
+  "startMethod": "autostart-beginning",
+  "mediaList": [
+    {
+	  "name": "Get Lucky",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Get%20Lucky-Daft%20Punk.mp3?raw=true",
+      "volume": 0.7,
+      "startTime": 0,
+	  "skipAfter": 242,
+	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Arm Candy",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Arm%20Candy%20-%20Spence.mp3?raw=true",
+      "volume": 0.7,
+      "startTime": 0,
+	  "skipAfter": 176,
+	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Beside Me",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Beside%20Me%20-%20Patrick%20Patrikios.mp3?raw=true",
+      "volume": 0.7,
+      "startTime": 0,
+  	  "skipAfter": 186,
+	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Block Party Bad Snacks",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Block%20Party%20-%20Bad%20Snacks.mp3?raw=true",
+      "volume": 0.7,
+      "startTime": 0,
+   	  "skipAfter": 155,
+	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Cover",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Cover%20-%20Patrick%20Patrikios.mp3?raw=true",
+      "volume": 0.7,
+      "startTime": 0,
+   	  "skipAfter": 157,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Enchant",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Enchant%C3%A9e%20feat.%20Mr%20Stabalina%20-%20Slynk.mp3?raw=true",
+      "volume": 0.7,
+      "startTime": 0,
+   	  "skipAfter": 206,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Fridaze",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Fridaze%20-%20Lauren%20Duski.mp3?raw=true",
+      "volume": 0.7,
+      "startTime": 0,
+   	  "skipAfter": 116,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Go Go Go",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Go%20Go%20Go%20-%20Kwon.mp3?raw=true",
+      "volume": 0.7,
+      "startTime": 0,
+   	  "skipAfter": 226,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Robots Cometh",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Robots%20a%20Cometh%20-%20Dan%20Lebowitz.mp3?raw=true",
+      "volume": 0.7,
+      "startTime": 0,
+   	  "skipAfter": 112,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+	{
+	  "name": "X Ray Vision",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/X%20Ray%20Vision%20-%20Slynk.mp3?raw=true",
+      "volume": 0.7,
+      "startTime": 0,
+   	  "skipAfter": 219,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"loop"
+    }
+  ]
+}
