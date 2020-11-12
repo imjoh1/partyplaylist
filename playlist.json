@@ -3,110 +3,182 @@
   "startMethod": "autostart-beginning",
   "mediaList": [
   	{
+	  "name": "Mood",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Mood.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+	  "skipAfter": 143,
+	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+	{
+	  "name": "Watermelon Sugar",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Watermelon%20Sugar.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+	  "skipAfter": 178,
+	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Blinding Lights",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Blinding%20Lights.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+	  "skipAfter": 198,
+	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Kings & Queens",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Kings%20%26%20Queens.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+	  "skipAfter": 165,
+	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Bang!",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Bang!.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+  	  "skipAfter": 173,
+	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Head & Heart",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master//Head%20%26%20Heart.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 164,
+	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Don't Wanna Know",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Don't%20Wanna%20Know.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 209,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Cheap Thrills",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Cheap%20Thrillls.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 218,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "24K Magic",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/24K%20Magic.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 221,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Low",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Low.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 229,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+    {
+	  "name": "Yeah!",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Yeah!.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 246,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+	{
+	  "name": "Can't stop the feeling!",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Can't%20Stop%20the%20Feeling!.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 239,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+	{
+	  "name": "Bottoms Up",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Bottoms%20Up.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 243,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+	{
+	  "name": "Wobble",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Wobble.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 321,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+	{
+	  "name": "Just Dance",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Just%20Dance-Lady%20GaGa.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 242,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+	{
+	  "name": "Truth Hurts",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Truth%20Hurts.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 177,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+	{
+	  "name": "Good as Hell",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Good%20As%20Hell-Lizzo.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 161,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    },
+	{
+	  "name": "Dance Monkey",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Dance%20Monkey.mp3?raw=true",
+      "volume": 0.3,
+      "startTime": 0,
+   	  "skipAfter": 218,
+  	  "rolloffStartDistance" : 100,
+      "endOfVideoAction":"play-next"
+    }
+	{
 	  "name": "Uptown Funk",
       "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Uptown%20Funk.mp3?raw=true",
       "volume": 0.3,
       "startTime": 0,
-	  "skipAfter": 270,
-	  "rolloffStartDistance" : 100,
+   	  "skipAfter": 270,
+  	  "rolloffStartDistance" : 100,
       "endOfVideoAction":"play-next"
     },
 	{
-	  "name": "Can't Stop the Feeling",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Can't%20Stop%20the%20Feeling.mp3?raw=true",
-      "volume": 0.3,
-      "startTime": 0,
-	  "skipAfter": 234,
-	  "rolloffStartDistance" : 100,
-      "endOfVideoAction":"play-next"
-    },
-    {
 	  "name": "Get Lucky",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Get%20Lucky-Daft%20Punk.mp3?raw=true",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Get%20Lucky.mp3?raw=true",
       "volume": 0.3,
       "startTime": 0,
-	  "skipAfter": 242,
-	  "rolloffStartDistance" : 100,
-      "endOfVideoAction":"play-next"
-    },
-    {
-	  "name": "Arm Candy",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Arm%20Candy%20-%20Spence.mp3?raw=true",
-      "volume": 0.3,
-      "startTime": 0,
-	  "skipAfter": 176,
-	  "rolloffStartDistance" : 100,
-      "endOfVideoAction":"play-next"
-    },
-    {
-	  "name": "Beside Me",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Beside%20Me%20-%20Patrick%20Patrikios.mp3?raw=true",
-      "volume": 0.3,
-      "startTime": 0,
-  	  "skipAfter": 186,
-	  "rolloffStartDistance" : 100,
-      "endOfVideoAction":"play-next"
-    },
-    {
-	  "name": "Block Party Bad Snacks",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Block%20Party%20-%20Bad%20Snacks.mp3?raw=true",
-      "volume": 0.3,
-      "startTime": 0,
-   	  "skipAfter": 155,
-	  "rolloffStartDistance" : 100,
-      "endOfVideoAction":"play-next"
-    },
-    {
-	  "name": "Cover",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Cover%20-%20Patrick%20Patrikios.mp3?raw=true",
-      "volume": 0.3,
-      "startTime": 0,
-   	  "skipAfter": 157,
-  	  "rolloffStartDistance" : 100,
-      "endOfVideoAction":"play-next"
-    },
-    {
-	  "name": "Enchant",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Enchant%C3%A9e%20feat.%20Mr%20Stabalina%20-%20Slynk.mp3?raw=true",
-      "volume": 0.3,
-      "startTime": 0,
-   	  "skipAfter": 206,
-  	  "rolloffStartDistance" : 100,
-      "endOfVideoAction":"play-next"
-    },
-    {
-	  "name": "Fridaze",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Fridaze%20-%20Lauren%20Duski.mp3?raw=true",
-      "volume": 0.3,
-      "startTime": 0,
-   	  "skipAfter": 116,
-  	  "rolloffStartDistance" : 100,
-      "endOfVideoAction":"play-next"
-    },
-    {
-	  "name": "Go Go Go",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Go%20Go%20Go%20-%20Kwon.mp3?raw=true",
-      "volume": 0.3,
-      "startTime": 0,
-   	  "skipAfter": 226,
-  	  "rolloffStartDistance" : 100,
-      "endOfVideoAction":"play-next"
-    },
-    {
-	  "name": "Robots Cometh",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Robots%20a%20Cometh%20-%20Dan%20Lebowitz.mp3?raw=true",
-      "volume": 0.3,
-      "startTime": 0,
-   	  "skipAfter": 112,
-  	  "rolloffStartDistance" : 100,
-      "endOfVideoAction":"play-next"
-    },
-	{
-	  "name": "X Ray Vision",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/X%20Ray%20Vision%20-%20Slynk.mp3?raw=true",
-      "volume": 0.3,
-      "startTime": 0,
-   	  "skipAfter": 219,
+   	  "skipAfter": 242,
   	  "rolloffStartDistance" : 100,
       "endOfVideoAction":"loop"
     }
