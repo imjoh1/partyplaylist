@@ -49,7 +49,7 @@
     },
     {
 	  "name": "Head & Heart",
-      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master//Head%20%26%20Heart.mp3?raw=true",
+      "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Head%20%26%20Heart.mp3?raw=true",
       "volume": 0.3,
       "startTime": 0,
    	  "skipAfter": 164,
@@ -163,7 +163,7 @@
    	  "skipAfter": 218,
   	  "rolloffStartDistance" : 100,
       "endOfVideoAction":"play-next"
-    }
+    },
 	{
 	  "name": "Uptown Funk",
       "videoUrl": "https://github.com/imjoh1/partyplaylist/blob/master/Uptown%20Funk.mp3?raw=true",
